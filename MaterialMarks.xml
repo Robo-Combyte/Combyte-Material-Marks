@@ -1,0 +1,36 @@
+<OverlayData>
+	<MarkerCategory name="cmm" displayName="Combyte's Material Marks">
+		
+		<MarkerCategory name="cmm_marks" displayName="Markers" heightOffset="0" behavior="3" triggerRange="5" maxSize="32" mapDisplaySize="50">
+			<MarkerCategory name="cmm_ore" displayName="Ore">
+				<MarkerCategory name="cmm_normore" displayName="Normal">
+					<MarkerCategory name="cmm_copper" displayName="Copper" iconFile="Data\Markers\Nodes\Metal\CopperOre.png"/>
+					<MarkerCategory name="cmm_iron" displayName="Iron" iconFile="Data\Markers\Nodes\Metal\IronOre.png"/>
+					<MarkerCategory name="cmm_silver" displayName="Silver" iconFile="Data\Markers\Nodes\Metal\SilverOre.png"/>
+					<MarkerCategory name="cmm_gold" displayName="Gold" iconFile="Data\Markers\Nodes\Metal\GoldOre.png"/>
+					<MarkerCategory name="cmm_platinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOre.png"/>
+					<MarkerCategory name="cmm_mithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOre.png"/>
+					<MarkerCategory name="cmm_orichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOre.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_richore" displayName="Rich">
+					<MarkerCategory name="cmm_richcopper" displayName="Copper" iconFile="Data\Markers\Nodes\Metal\CopperOreGlow.png"/>
+					<MarkerCategory name="cmm_richiron" displayName="Iron" iconFile="Data\Markers\Nodes\Metal\IronOreGlow.png"/>
+					<MarkerCategory name="cmm_richsilver" displayName="Silver" iconFile="Data\Markers\Nodes\Metal\SilverOreGlow.png"/>
+					<MarkerCategory name="cmm_richgold" displayName="Gold" iconFile="Data\Markers\Nodes\Metal\GoldOreGlow.png"/>
+					<MarkerCategory name="cmm_richplatinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOreGlow.png"/>
+					<MarkerCategory name="cmm_richmithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOreGlow.png"/>
+					<MarkerCategory name="cmm_richorichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOreGlow.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="cmm_wood" displayName="Wood">
+				<MarkerCategory name="cmm_greenwood" displayName="Green" iconFile="Data\Markers\Nodes\Wood\GreenWood.png"/>
+				<MarkerCategory name="cmm_softwood" displayName="Soft" iconFile="Data\Markers\Nodes\Wood\SoftWood.png"/>
+				<MarkerCategory name="cmm_seasonedwood" displayName="Seasoned" iconFile="Data\Markers\Nodes\Wood\SeasonedWood.png"/>
+				<MarkerCategory name="cmm_hardwood" displayName="Hard" iconFile="Data\Markers\Nodes\Wood\HardWood.png"/>
+				<MarkerCategory name="cmm_elderwood" displayName="Elder" iconFile="Data\Markers\Nodes\Wood\ElderWood.png"/>
+				<MarkerCategory name="cmm_ancientwood" displayName="Ancient" iconFile="Data\Markers\Nodes\Wood\AncientWood.png"/>
+			</MarkerCategory>
+		</MarkerCategory>
+		
+	</MarkerCategory>
+</OverlayData>
