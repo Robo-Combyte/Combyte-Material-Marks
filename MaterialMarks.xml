@@ -11,6 +11,7 @@
 					<MarkerCategory name="cmm_platinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOre.png"/>
 					<MarkerCategory name="cmm_mithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOre.png"/>
 					<MarkerCategory name="cmm_orichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOre.png"/>
+					<MarkerCategory name="cmm_quartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Metal\QuartzOre.png"/>
 				</MarkerCategory>
 				<MarkerCategory name="cmm_richore" displayName="Rich">
 					<MarkerCategory name="cmm_richcopper" displayName="Copper" iconFile="Data\Markers\Nodes\Metal\CopperOreGlow.png"/>
@@ -20,6 +21,7 @@
 					<MarkerCategory name="cmm_richplatinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOreGlow.png"/>
 					<MarkerCategory name="cmm_richmithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOreGlow.png"/>
 					<MarkerCategory name="cmm_richorichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOreGlow.png"/>
+					<MarkerCategory name="cmm_richquartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Metal\QuartzOreGlow.png"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			<MarkerCategory name="cmm_wood" displayName="Wood">
