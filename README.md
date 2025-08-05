@@ -11,40 +11,40 @@ and some Nodes may be missed due to not having been created at the time of marki
 Currently available so far:
 
 **Ascalon:**
-- Blazeridge Steppes (64 Metal, 42 Wood)
-- Diessa Plateau (48 Metal, 25 Wood)
-- Fields of Ruin (44 Metal, 27 Wood)
-- Fireheart Rise (43 Metal, 34 Wood)
-- Iron Marches (48 Metal, 35 Wood)
-- Plains of Ashford (52 Metal, 39 Wood)
+- Blazeridge Steppes (64 Ore, 42 Wood)
+- Diessa Plateau (48 Ore, 25 Wood)
+- Fields of Ruin (44 Ore, 27 Wood)
+- Fireheart Rise (43 Ore, 34 Wood)
+- Iron Marches (48 Ore, 35 Wood)
+- Plains of Ashford (110 Ore, 94 Wood, 84 Forage)
 
 **Maguuma Jungle:**
-- Brisban Wildlands (48 Metal, 26 Wood)
-- Caledon Forest (62 Metal, 38 Wood)
-- Metrica Province (70 Metal, 31 Wood)
-- Mount Malestrom (45 Metal, 34 Wood)
-- Sparkfly Fen (58 Metal, 54 Wood)
+- Brisban Wildlands (48 Ore, 26 Wood)
+- Caledon Forest (95 Ore, 63 Wood, 28 Forage)
+- Metrica Province (97 Ore, 60 Wood, 37 Forage)
+- Mount Malestrom (45 Ore, 34 Wood)
+- Sparkfly Fen (58 Ore, 54 Wood)
 
 **Maguuma Wastes:**
 - Dry Top (15 Ore, 10 Wood)
 - The Silverwastes (11 Ore, 15 Wood)
 
 **Shiverpeak Mountains:**
-- Dreadgehaunt Cliffs (44 Metal, 35 Wood)
-- Frostgorge Sound (40 Metal, 28 Wood)
+- Dreadgehaunt Cliffs (44 Ore, 35 Wood)
+- Frostgorge Sound (40 Ore, 28 Wood)
 - Lornar's Pass (26 Ore, 46 Wood)
 - Snowden Drifts (41 Ore, 22 Wood)
-- Timberline Falls (47 Metal, 35 Wood)
-- Wayfarer Foothills (43 Ore, 41 Wood)
+- Timberline Falls (47 Ore, 35 Wood)
+- Wayfarer Foothills (72 Ore, 68 Wood, 50 Forage)
 
 **Kryta:**
-- Bloodtide Coast (43 Metal, 33 Wood)
-- Gendarran Fields (44 Metal, 25 Wood)
-- Harathi Hinterlands (44 Metal, 27 Wood)
-- Kessex Hills (87 Metal, 25 Wood)
-- Queensdale (40 Metal, 28 Wood)
+- Bloodtide Coast (43 Ore, 33 Wood)
+- Gendarran Fields (44 Ore, 25 Wood)
+- Harathi Hinterlands (44 Ore, 27 Wood)
+- Kessex Hills (87 Ore, 25 Wood)
+- Queensdale (95 Ore, 75 Wood, 54 Forage)
 
 **Ruins of Orr:**
 - Cursed Shore (45 Ore, 35 Wood)
 - Malchor's Leap (42 Ore, 40 Wood)
-- Straits of Devastation (48 Metal, 27 Wood)
+- Straits of Devastation (48 Ore, 27 Wood)
