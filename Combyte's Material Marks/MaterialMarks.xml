@@ -1,27 +1,103 @@
 <OverlayData>
 	<MarkerCategory name="cmm" displayName="Combyte's Material Marks">
 		
-		<MarkerCategory name="cmm_marks" displayName="Markers" heightOffset="0" behavior="3" triggerRange="5" maxSize="32" mapDisplaySize="50">
+		<MarkerCategory name="cmm_marks" displayName="Markers" fadeNear="5000" fadeFar="12500" heightOffset="0" behavior="3" triggerRange="5" maxSize="32" mapDisplaySize="50">
 			<MarkerCategory name="cmm_ore" displayName="Ore">
 				<MarkerCategory name="cmm_normore" displayName="Normal">
-					<MarkerCategory name="cmm_copper" displayName="Copper" iconFile="Data\Markers\Nodes\Metal\CopperOre.png"/>
-					<MarkerCategory name="cmm_iron" displayName="Iron" iconFile="Data\Markers\Nodes\Metal\IronOre.png"/>
-					<MarkerCategory name="cmm_silver" displayName="Silver" iconFile="Data\Markers\Nodes\Metal\SilverOre.png"/>
-					<MarkerCategory name="cmm_gold" displayName="Gold" iconFile="Data\Markers\Nodes\Metal\GoldOre.png"/>
-					<MarkerCategory name="cmm_platinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOre.png"/>
-					<MarkerCategory name="cmm_mithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOre.png"/>
-					<MarkerCategory name="cmm_orichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOre.png"/>
-					<MarkerCategory name="cmm_quartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Metal\QuartzOre.png"/>
+					<MarkerCategory name="cmm_copper" displayName="Copper" iconFile="Data\Markers\Nodes\Ore\CopperOre.png"/>
+					<MarkerCategory name="cmm_iron" displayName="Iron" iconFile="Data\Markers\Nodes\Ore\IronOre.png"/>
+					<MarkerCategory name="cmm_silver" displayName="Silver" iconFile="Data\Markers\Nodes\Ore\SilverOre.png"/>
+					<MarkerCategory name="cmm_gold" displayName="Gold" iconFile="Data\Markers\Nodes\Ore\GoldOre.png"/>
+					<MarkerCategory name="cmm_platinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Ore\PlatinumOre.png"/>
+					<MarkerCategory name="cmm_mithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Ore\MithrilOre.png"/>
+					<MarkerCategory name="cmm_orichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Ore\OrichalcumOre.png"/>
+					<MarkerCategory name="cmm_quartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Ore\QuartzOre.png"/>
 				</MarkerCategory>
 				<MarkerCategory name="cmm_richore" displayName="Rich">
-					<MarkerCategory name="cmm_richcopper" displayName="Copper" iconFile="Data\Markers\Nodes\Metal\CopperOreGlow.png"/>
-					<MarkerCategory name="cmm_richiron" displayName="Iron" iconFile="Data\Markers\Nodes\Metal\IronOreGlow.png"/>
-					<MarkerCategory name="cmm_richsilver" displayName="Silver" iconFile="Data\Markers\Nodes\Metal\SilverOreGlow.png"/>
-					<MarkerCategory name="cmm_richgold" displayName="Gold" iconFile="Data\Markers\Nodes\Metal\GoldOreGlow.png"/>
-					<MarkerCategory name="cmm_richplatinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Metal\PlatinumOreGlow.png"/>
-					<MarkerCategory name="cmm_richmithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Metal\MithrilOreGlow.png"/>
-					<MarkerCategory name="cmm_richorichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Metal\OrichalcumOreGlow.png"/>
-					<MarkerCategory name="cmm_richquartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Metal\QuartzOreGlow.png"/>
+					<MarkerCategory name="cmm_richcopper" displayName="Copper" iconFile="Data\Markers\Nodes\Ore\CopperOreGlow.png"/>
+					<MarkerCategory name="cmm_richiron" displayName="Iron" iconFile="Data\Markers\Nodes\Ore\IronOreGlow.png"/>
+					<MarkerCategory name="cmm_richsilver" displayName="Silver" iconFile="Data\Markers\Nodes\Ore\SilverOreGlow.png"/>
+					<MarkerCategory name="cmm_richgold" displayName="Gold" iconFile="Data\Markers\Nodes\Ore\GoldOreGlow.png"/>
+					<MarkerCategory name="cmm_richplatinum" displayName="Platinum" iconFile="Data\Markers\Nodes\Ore\PlatinumOreGlow.png"/>
+					<MarkerCategory name="cmm_richmithril" displayName="Mithril" iconFile="Data\Markers\Nodes\Ore\MithrilOreGlow.png"/>
+					<MarkerCategory name="cmm_richorichalcum" displayName="Orichalcum" iconFile="Data\Markers\Nodes\Ore\OrichalcumOreGlow.png"/>
+					<MarkerCategory name="cmm_richquartz" displayName="Quartz" iconFile="Data\Markers\Nodes\Ore\QuartzOreGlow.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="cmm_forage" displayName="Forage">
+				<MarkerCategory name="cmm_aquatic" displayName="Aquatic">
+					<MarkerCategory name="cmm_clam" displayName="Clam" iconFile="Data\Markers\Nodes\Forage\Aquatic\Clam.png"/>
+					<MarkerCategory name="cmm_coralchunk" displayName="Coral Chunk" iconFile="Data\Markers\Nodes\Forage\Aquatic\CoralChunk.png"/>
+					<MarkerCategory name="cmm_coralorb" displayName="Coral Orb" iconFile="Data\Markers\Nodes\Forage\Aquatic\CoralOrb.png"/>
+					<MarkerCategory name="cmm_coraltentacle" displayName="Coral Tentacle" iconFile="Data\Markers\Nodes\Forage\Aquatic\CoralTentacle.png"/>
+					<MarkerCategory name="cmm_mussel" displayName="Mussel" iconFile="Data\Markers\Nodes\Forage\Aquatic\Mussel.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_floral" displayName="Floral">
+					<MarkerCategory name="cmm_flax" displayName="Flax" iconFile="Data\Markers\Nodes\Forage\Floral\Flax.png"/>
+					<MarkerCategory name="cmm_passionflower" displayName="Passion Flower" iconFile="Data\Markers\Nodes\Forage\Floral\PassionFlower.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_fruit" displayName="Fruit">
+					<MarkerCategory name="cmm_blackberry" displayName="Blackberry" iconFile="Data\Markers\Nodes\Forage\Fruit\Blackberry.png"/>
+					<MarkerCategory name="cmm_blueberry" displayName="Blueberry" iconFile="Data\Markers\Nodes\Forage\Fruit\Blueberry.png"/>
+					<MarkerCategory name="cmm_butternutsquash" displayName="Butternut Squash" iconFile="Data\Markers\Nodes\Forage\Fruit\ButternutSquash.png"/>
+					<MarkerCategory name="cmm_cayennepepper" displayName="Cayenne Pepper" iconFile="Data\Markers\Nodes\Forage\Fruit\CayennePepper.png"/>
+					<MarkerCategory name="cmm_grape" displayName="Grape" iconFile="Data\Markers\Nodes\Forage\Fruit\Grape.png"/>
+					<MarkerCategory name="cmm_omnomberry" displayName="Omnomberry" iconFile="Data\Markers\Nodes\Forage\Fruit\Omnomberry.png"/>
+					<MarkerCategory name="cmm_passionfruit" displayName="Passion Fruit" iconFile="Data\Markers\Nodes\Forage\Fruit\PassionFruit.png"/>
+					<MarkerCategory name="cmm_raspberry" displayName="Raspberry" iconFile="Data\Markers\Nodes\Forage\Fruit\Raspberry.png"/>
+					<MarkerCategory name="cmm_strawberry" displayName="Strawberry" iconFile="Data\Markers\Nodes\Forage\Fruit\Strawberry.png"/>
+					<MarkerCategory name="cmm_sugarpumpkin" displayName="Sugar Pumpkin" iconFile="Data\Markers\Nodes\Forage\Fruit\SugarPumpkin.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_fungus" displayName="Fungus">
+					<MarkerCategory name="cmm_mushroom" displayName="Mushroom" iconFile="Data\Markers\Nodes\Forage\Fungus\Mushroom.png"/>
+					<MarkerCategory name="cmm_orriantruffle" displayName="Orrian Truffle" iconFile="Data\Markers\Nodes\Forage\Fungus\OrrianTruffle.png"/>
+					<MarkerCategory name="cmm_portobellomushroom" displayName="Portobello Mushroom" iconFile="Data\Markers\Nodes\Forage\Fungus\PortobelloMushroom.png"/>
+					<MarkerCategory name="cmm_snowtruffle" displayName="Snow Truffle" iconFile="Data\Markers\Nodes\Forage\Fungus\SnowTruffle.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_herb" displayName="Herb">
+					<MarkerCategory name="cmm_bayleaf" displayName="Bay Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\BayLeaf.png"/>
+					<MarkerCategory name="cmm_blackpeppercorn" displayName="Black Peppercorn" iconFile="Data\Markers\Nodes\Forage\Herb\BlackPeppercorn.png"/>
+					<MarkerCategory name="cmm_chilipepper" displayName="Chili Pepper" iconFile="Data\Markers\Nodes\Forage\Herb\ChiliPepper.png"/>
+					<MarkerCategory name="cmm_clove" displayName="Clove" iconFile="Data\Markers\Nodes\Forage\Herb\Clove.png"/>
+					<MarkerCategory name="cmm_corianderseed" displayName="Coriander Seed" iconFile="Data\Markers\Nodes\Forage\Herb\CorianderSeed.png"/>
+					<MarkerCategory name="cmm_dillsprig" displayName="Dill Sprig" iconFile="Data\Markers\Nodes\Forage\Herb\DillSprig.png"/>
+					<MarkerCategory name="cmm_garlic" displayName="Garlic" iconFile="Data\Markers\Nodes\Forage\Herb\Garlic.png"/>
+					<MarkerCategory name="cmm_lemongrass" displayName="Lemongrass" iconFile="Data\Markers\Nodes\Forage\Herb\Lemongrass.png"/>
+					<MarkerCategory name="cmm_mint" displayName="Mint" iconFile="Data\Markers\Nodes\Forage\Herb\Mint.png"/>
+					<MarkerCategory name="cmm_oregano" displayName="Oregano" iconFile="Data\Markers\Nodes\Forage\Herb\Oregano.png"/>
+					<MarkerCategory name="cmm_parsleyleaf" displayName="Parsley Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\ParsleyLeaf.png"/>
+					<MarkerCategory name="cmm_parsnip" displayName="Parsnip" iconFile="Data\Markers\Nodes\Forage\Herb\Parsnip.png"/>
+					<MarkerCategory name="cmm_rosemary" displayName="Rosemary" iconFile="Data\Markers\Nodes\Forage\Herb\Rosemary.png"/>
+					<MarkerCategory name="cmm_saffron" displayName="Saffron" iconFile="Data\Markers\Nodes\Forage\Herb\Saffron.png"/>
+					<MarkerCategory name="cmm_sage" displayName="Sage" iconFile="Data\Markers\Nodes\Forage\Herb\Sage.png"/>
+					<MarkerCategory name="cmm_sesameseed" displayName="Sesame Seed" iconFile="Data\Markers\Nodes\Forage\Herb\SesameSeed.png"/>
+					<MarkerCategory name="cmm_terragon" displayName="Terragon" iconFile="Data\Markers\Nodes\Forage\Herb\Terragon.png"/>
+					<MarkerCategory name="cmm_thymeleaf" displayName="Thyme Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\Thyme.png"/>
+					<MarkerCategory name="cmm_vanillabean" displayName="Vanilla Bean" iconFile="Data\Markers\Nodes\Forage\Herb\VanillaBean.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="cmm_vegetable" displayName="Vegetable">
+					<MarkerCategory name="cmm_artichoke" displayName="Artichoke" iconFile="Data\Markers\Nodes\Forage\Vegetable\Artichoke.png"/>
+					<MarkerCategory name="cmm_asparagus" displayName="Asparagus" iconFile="Data\Markers\Nodes\Forage\Vegetable\Asparagus.png"/>
+					<MarkerCategory name="cmm_beet" displayName="Beet" iconFile="Data\Markers\Nodes\Forage\Vegetable\Beet.png"/>
+					<MarkerCategory name="cmm_cabbage" displayName="Cabbage" iconFile="Data\Markers\Nodes\Forage\Vegetable\Cabbage.png"/>
+					<MarkerCategory name="cmm_carrot" displayName="Carrot" iconFile="Data\Markers\Nodes\Forage\Vegetable\Carrot.png"/>
+					<MarkerCategory name="cmm_cauliflower" displayName="Cauliflower" iconFile="Data\Markers\Nodes\Forage\Vegetable\Cauliflower.png"/>
+					<MarkerCategory name="cmm_greenonion" displayName="Green Onion" iconFile="Data\Markers\Nodes\Forage\Vegetable\GreenOnion.png"/>
+					<MarkerCategory name="cmm_kale" displayName="Kale" iconFile="Data\Markers\Nodes\Forage\Vegetable\Kale.png"/>
+					<MarkerCategory name="cmm_leek" displayName="Leek" iconFile="Data\Markers\Nodes\Forage\Vegetable\Leek.png"/>
+					<MarkerCategory name="cmm_lentils" displayName="Lentils" iconFile="Data\Markers\Nodes\Forage\Vegetable\Lentils.png"/>
+					<MarkerCategory name="cmm_lettuce" displayName="Lettuce" iconFile="Data\Markers\Nodes\Forage\Vegetable\Lettuce.png"/>
+					<MarkerCategory name="cmm_lotusroot" displayName="Lotus Root" iconFile="Data\Markers\Nodes\Forage\Vegetable\LotusRoot.png"/>
+					<MarkerCategory name="cmm_nopal" displayName="Nopal" iconFile="Data\Markers\Nodes\Forage\Vegetable\Nopal.png"/>
+					<MarkerCategory name="cmm_onion" displayName="Onion" iconFile="Data\Markers\Nodes\Forage\Vegetable\Onion.png"/>
+					<MarkerCategory name="cmm_potato" displayName="Potato" iconFile="Data\Markers\Nodes\Forage\Vegetable\Potato.png"/>
+					<MarkerCategory name="cmm_pricklypear" displayName="Prickly Pear" iconFile="Data\Markers\Nodes\Forage\Vegetable\PricklyPear.png"/>
+					<MarkerCategory name="cmm_rutabaga" displayName="Rutabaga" iconFile="Data\Markers\Nodes\Forage\Vegetable\Rutabaga.png"/>
+					<MarkerCategory name="cmm_seaweed" displayName="Seaweed" iconFile="Data\Markers\Nodes\Forage\Vegetable\Seaweed.png"/>
+					<MarkerCategory name="cmm_spinach" displayName="Spinach" iconFile="Data\Markers\Nodes\Forage\Vegetable\Spinach.png"/>
+					<MarkerCategory name="cmm_turnip" displayName="Turnip" iconFile="Data\Markers\Nodes\Forage\Vegetable\Turnip.png"/>
+					<MarkerCategory name="cmm_yam" displayName="Yam" iconFile="Data\Markers\Nodes\Forage\Vegetable\Yam.png"/>
+					<MarkerCategory name="cmm_zucchini" displayName="Zucchini" iconFile="Data\Markers\Nodes\Forage\Vegetable\Zucchini.png"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			<MarkerCategory name="cmm_wood" displayName="Wood">

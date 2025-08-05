@@ -21,7 +21,7 @@
 		<POI MapID="34" xpos="-263.318" ypos="3.71659" zpos="-257.095" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="d+x5U4IJNkKC2mtLe3bkoQ=="/>
 		<POI MapID="34" xpos="-314.892" ypos="1.12876" zpos="-316.259" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="AZO0UoOVEE+sN8kcbbJD4g=="/>
 		<POI MapID="34" xpos="-332.883" ypos="11.6674" zpos="-262.1" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="wsYvt6HB9kS39mtySFpoIQ=="/>
-		<POI MapID="34" xpos="127.393" ypos="28.8419" zpos="-387.922" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="r9aPrjPRWU27A4mEY7DxrA=="/>
+		<POI MapID="34" xpos="127.61" ypos="29.7043" zpos="-387.127" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="r9aPrjPRWU27A4mEY7DxrA=="/>
 		<POI MapID="34" xpos="82.6188" ypos="35.3309" zpos="-272.433" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="HMDMDw5mQUKgbOaDOjSRUA=="/>
 		<POI MapID="34" xpos="199.102" ypos="34.4179" zpos="-468.247" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="ryBZabOrUk60dSw9uOSUKA=="/>
 		<POI MapID="34" xpos="253.409" ypos="21.6873" zpos="-477.705" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="B9VOgUgmVku2cSlvgkuVqg=="/>
@@ -73,7 +73,7 @@
 		<POI MapID="34" xpos="554.281" ypos="4.43315" zpos="304.475" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="cRaNVHP+ZkGtgs9nnft7PQ=="/>
 		<POI MapID="34" xpos="552.047" ypos="1.06567" zpos="411.533" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="UoO3xpv9P0+78Mc8jJ6VOA=="/>
 		<POI MapID="34" xpos="503.179" ypos="-17.7815" zpos="415.056" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="PA4rx4yA+ket9DITB1WwOA=="/>
-		<POI MapID="34" xpos="419.08" ypos="-12.337" zpos="361.438" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="VRVlf8bfs0uAJza9aXFwAA=="/>
+		<POI MapID="34" xpos="419.255" ypos="-11.1021" zpos="362.416" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="VRVlf8bfs0uAJza9aXFwAA=="/>
 		<POI MapID="34" xpos="539.877" ypos="-42.7768" zpos="527.98" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="XfACiKKb1Euash0DrxxC5A=="/>
 		<POI MapID="34" xpos="500.456" ypos="-39.4626" zpos="634.486" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="EC7YF+7xnkebX8a29n+XQQ=="/>
 		<POI MapID="34" xpos="400.264" ypos="-54.7761" zpos="558.884" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="VXpGb+wCKEmo8yA4Zl2OPQ=="/>
@@ -100,5 +100,91 @@
 		<POI MapID="34" xpos="-156.955" ypos="1.27558" zpos="850.001" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="nLVr1LztrkqHmZa8zJ2BnA=="/>
 		<POI MapID="34" xpos="-509.244" ypos="13.4844" zpos="1062.72" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="J8ysoXLKn0uVEZmEBO4ISQ=="/>
 		<POI MapID="34" xpos="-375.844" ypos="18.5621" zpos="1026.81" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="AfaD28xek0eKK+70F1mkXA=="/>
+		<POI MapID="34" xpos="-238.151" ypos="26.9766" zpos="-830.507" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="9jYirisPvkKW3WxhUTzl5w=="/>
+		<POI MapID="34" xpos="-280.378" ypos="26.2513" zpos="-824.827" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="TDQkZsMs2UCofzU0jwZjHw=="/>
+		<POI MapID="34" xpos="-387.3" ypos="21.848" zpos="-802.194" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="r98qEKH+HUyWCr18XilEag=="/>
+		<POI MapID="34" xpos="-439.001" ypos="27.4822" zpos="-935.864" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="RE0j1A/fJ0S2CvkbzTTbsw=="/>
+		<POI MapID="34" xpos="-402.404" ypos="27.2005" zpos="-976.927" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="Qo1TajCL1USdsvsLW0XdZQ=="/>
+		<POI MapID="34" xpos="-187.927" ypos="45.7937" zpos="-663.698" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="6oa7X6M8lke1Ngx0Jgi6Xg=="/>
+		<POI MapID="34" xpos="-216.427" ypos="35.4871" zpos="-586.646" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="EgjgZODx4UeqJwshVaeNEA=="/>
+		<POI MapID="34" xpos="-193.231" ypos="32.6286" zpos="-569.458" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="OrqD5iMTZ0KhfW6QRAfa6A=="/>
+		<POI MapID="34" xpos="-178.286" ypos="33.6362" zpos="-580.255" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="VOrScRvrQkCx0313UjF6OA=="/>
+		<POI MapID="34" xpos="-68.2899" ypos="2.85902" zpos="-446.062" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="c96zI7Vn2kySHUPdCRRWSg=="/>
+		<POI MapID="34" xpos="-9.45658" ypos="21.3549" zpos="-508.176" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="EBlqMOmaW0moGYxOphwsVw=="/>
+		<POI MapID="34" xpos="-181.427" ypos="6.5954" zpos="-445.465" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="DVdGTkxlIkyyYpPoyVZAtA=="/>
+		<POI MapID="34" xpos="-91.3538" ypos="9.30442" zpos="-317.205" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="hkNrZzLVrUmgyOnSH6Heag=="/>
+		<POI MapID="34" xpos="-28.7752" ypos="22.2876" zpos="-286.715" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="NzE+cPpgv0+SdOdwovJEbQ=="/>
+		<POI MapID="34" xpos="25.8954" ypos="0.589024" zpos="-162.001" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="8TsoUyaUKUCWswn2dll7hw=="/>
+		<POI MapID="34" xpos="74.7729" ypos="17.444" zpos="-201.745" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_vanillabean" GUID="I6kDtyACLkK6YUVSWQ3sQA=="/>
+		<POI MapID="34" xpos="74.8271" ypos="17.4158" zpos="-204.291" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_blackpeppercorn" GUID="zoBEkXyT3keNEHZsXrS87Q=="/>
+		<POI MapID="34" xpos="76.0554" ypos="17.4146" zpos="-203.002" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_parsleyleaf" GUID="6CNIy0K/wEiczWWcoTfcyg=="/>
+		<POI MapID="34" xpos="73.479" ypos="17.4554" zpos="-202.988" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_garlic" GUID="pa35pInL50GpQXxKmRdXeQ=="/>
+		<POI MapID="34" xpos="8.04043" ypos="15.1556" zpos="-363.242" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_onion" GUID="YDHNoZhiP02ZmrBQNO268w=="/>
+		<POI MapID="34" xpos="9.06556" ypos="16.056" zpos="-362.985" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="HOJjMvqmVka9M43wOjjMmQ=="/>
+		<POI MapID="34" xpos="127.205" ypos="29.7462" zpos="-388.974" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="ahuRENuqC0aCIp/dS+4ULw=="/>
+		<POI MapID="34" xpos="208.399" ypos="33.7225" zpos="-434.008" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="NCPbZUgIekKgXDYVVACuYw=="/>
+		<POI MapID="34" xpos="209.806" ypos="30.9443" zpos="-439.07" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_blackpeppercorn" GUID="4XUqGvTM4kid67f9JRZ4+w=="/>
+		<POI MapID="34" xpos="210.956" ypos="30.9354" zpos="-440.176" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_parsleyleaf" GUID="QKyNiz3XbUG5sadbnoRT3A=="/>
+		<POI MapID="34" xpos="209.739" ypos="30.9891" zpos="-441.431" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_vanillabean" GUID="Pd2o3s2M9E2D+d3Jj0wKYQ=="/>
+		<POI MapID="34" xpos="208.765" ypos="30.913" zpos="-440.282" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_garlic" GUID="aowxmjgNpEiNzWXm9lxoiA=="/>
+		<POI MapID="34" xpos="302.996" ypos="25.2982" zpos="-433.131" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="Pecm6haaEUSh0fpNeU1Dow=="/>
+		<POI MapID="34" xpos="-55.4686" ypos="-23.7362" zpos="-120.936" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="Rcwex0d3r0+WlVbq7y5BbQ=="/>
+		<POI MapID="34" xpos="166.095" ypos="-41.6858" zpos="-67.5708" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="WkK2Yn219UeS9bXbFVlv+Q=="/>
+		<POI MapID="34" xpos="185.752" ypos="0.759657" zpos="-15.9749" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="uez9Pfmx7USdfkYuJhzvjA=="/>
+		<POI MapID="34" xpos="270.551" ypos="-41.7221" zpos="-99.8209" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="8kBnJMxGK0qgAAvG8Qo2cw=="/>
+		<POI MapID="34" xpos="275.763" ypos="0.572469" zpos="-148.416" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="cXilT+OupESaPhdGpYt6hQ=="/>
+		<POI MapID="34" xpos="461.454" ypos="20.9721" zpos="-203.422" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="ROtpRXRJek2yuJhz5v3LfA=="/>
+		<POI MapID="34" xpos="446.19" ypos="-24.503" zpos="225.415" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="8faaefbUWEyWFkKpACgcfQ=="/>
+		<POI MapID="34" xpos="419.195" ypos="-11.1246" zpos="360.634" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="1RXeJv+G3UaElJW3jDQJTA=="/>
+		<POI MapID="34" xpos="377.741" ypos="-41.0626" zpos="432.068" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="HK5nqiB/tEWCYCNgu3b0xg=="/>
+		<POI MapID="34" xpos="504.391" ypos="-42.7425" zpos="857.501" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="l8QF/vk6KUmze0YiFDQs3w=="/>
+		<POI MapID="34" xpos="572.248" ypos="-14.2653" zpos="820.857" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="NYIf4YjAsEGAvdCPlKBHAA=="/>
+		<POI MapID="34" xpos="563.589" ypos="3.46256" zpos="876.258" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="ZXGtu4ysIEWIL3q0h+ekig=="/>
+		<POI MapID="34" xpos="354.268" ypos="10.1771" zpos="851.87" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="twCMF0I0PEuCI8N7jZaxfA=="/>
+		<POI MapID="34" xpos="276.08" ypos="6.27188" zpos="784.068" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="g9g/3lGCCUiCu1IOOb606A=="/>
+		<POI MapID="34" xpos="89.2398" ypos="1.23642" zpos="735.38" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="G37rbyUL+Ua336U/PURfTA=="/>
+		<POI MapID="34" xpos="51.0938" ypos="9.27793" zpos="699.698" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_vanillabean" GUID="OwyaM2PfUECrCsjTJ9ipmw=="/>
+		<POI MapID="34" xpos="53.8277" ypos="9.07773" zpos="699.692" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_garlic" GUID="xKoob+snc0q3vy2TJx4j0g=="/>
+		<POI MapID="34" xpos="52.4296" ypos="9.2929" zpos="700.943" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_blackpeppercorn" GUID="J/obzp6if0uIVp4F49v9Tw=="/>
+		<POI MapID="34" xpos="52.4631" ypos="9.26601" zpos="698.252" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_parsleyleaf" GUID="UC6ok0zkOU2pfeTbucnudQ=="/>
+		<POI MapID="34" xpos="459.594" ypos="4.53079" zpos="1100.36" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="WBiaLr49Uk+DGquEHKgqLw=="/>
+		<POI MapID="34" xpos="381.21" ypos="0.917036" zpos="1168.87" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="i1TuLV4Ca0eSxr/CaY79Uw=="/>
+		<POI MapID="34" xpos="349.072" ypos="0.709462" zpos="1109.92" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="t7sEX00pqEavOlMfp55eEg=="/>
+		<POI MapID="34" xpos="308.997" ypos="3.7058" zpos="1097.67" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="aCp/9QS5OUy8/gz0pOC8ow=="/>
+		<POI MapID="34" xpos="176.5" ypos="3.36545" zpos="1118.05" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_carrot" GUID="siNZm/08TU+JwjpJWrI2DQ=="/>
+		<POI MapID="34" xpos="93.027" ypos="5.76072" zpos="1101.95" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="1rFhWm1ft0CvX2+tenfKSw=="/>
+		<POI MapID="34" xpos="-151.065" ypos="22.8713" zpos="815.535" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="o2xlqW8QKEGv58kh50AtJA=="/>
+		<POI MapID="34" xpos="-299.854" ypos="5.33883" zpos="814.557" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="i+j451bjzkWqVOP6DL2bHg=="/>
+		<POI MapID="34" xpos="-469.654" ypos="0.338342" zpos="896.823" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="B7pDZaSDCkOqfF/nfdJ3nA=="/>
+		<POI MapID="34" xpos="-380.466" ypos="0.46067" zpos="948.395" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="XwvMzLZA/Uan++eRRv5fhQ=="/>
+		<POI MapID="34" xpos="-483.557" ypos="17.7852" zpos="1015.32" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="qQ+38kWwDE2UpG4wzPzSJQ=="/>
+		<POI MapID="34" xpos="-236.711" ypos="2.82562" zpos="1041.45" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="EIh2j6Cibk2lW6JMX2Xgkw=="/>
+		<POI MapID="34" xpos="-298.021" ypos="3.20341" zpos="1068.67" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="JCsPLeis206j/rlphHSoJQ=="/>
+		<POI MapID="34" xpos="-327.52" ypos="5.70447" zpos="1109.66" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="Eg3gfZct9kuq/7+UKSF2vg=="/>
+		<POI MapID="34" xpos="-346.088" ypos="1.84464" zpos="1141.72" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="VVSyiU2qKk+0A/SKAXaaow=="/>
+		<POI MapID="34" xpos="-228.316" ypos="0.762655" zpos="1215.14" type="cmm.cmm_marks.cmm_ore.cmm_richore.cmm_richcopper" GUID="bpvwCwWc5kO8mlvd6JeDPQ=="/>
+		<POI MapID="34" xpos="-224.584" ypos="36.3649" zpos="610.982" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="akHh5ZgKdUS0I9+sSgtuhQ=="/>
+		<POI MapID="34" xpos="-146.346" ypos="58.2202" zpos="441.032" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="l5k/PeUUXEOEKq4/HMYLEA=="/>
+		<POI MapID="34" xpos="-125.615" ypos="54.6412" zpos="457.201" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_carrot" GUID="waedIj9nnkazh3IOqyuI1Q=="/>
+		<POI MapID="34" xpos="-67.3003" ypos="50.4323" zpos="500.114" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_onion" GUID="PA0Bk1Nmgka5WRLeAfSfAA=="/>
+		<POI MapID="34" xpos="-46.1749" ypos="40.3942" zpos="593.119" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="iogIdwWm20y3HDhPRH/b4g=="/>
+		<POI MapID="34" xpos="-238.654" ypos="15.2252" zpos="1131.47" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_garlic" GUID="qCNhxKarHEO0Q8fKwa9atQ=="/>
+		<POI MapID="34" xpos="-236.492" ypos="15.2965" zpos="1131.54" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_parsleyleaf" GUID="TRqFCGn3AEWO/n44kN/mcQ=="/>
+		<POI MapID="34" xpos="-237.688" ypos="15.1844" zpos="1132.52" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_blackpeppercorn" GUID="SxM8D8A3/0WJqYP/h8FRHg=="/>
+		<POI MapID="34" xpos="-237.608" ypos="15.2451" zpos="1130.55" type="cmm.cmm_marks.cmm_forage.cmm_herb.cmm_vanillabean" GUID="WRsIbqr3cUunOFu3CIzCRg=="/>
+		<POI MapID="34" xpos="-283.718" ypos="48.6226" zpos="416.507" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="Q5QmvI3x+U+mrGDpSdxoPw=="/>
+		<POI MapID="34" xpos="-328.107" ypos="45.4674" zpos="476.617" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="L0MaFViVN0inR2fRwaqm9Q=="/>
+		<POI MapID="34" xpos="-387.273" ypos="2.63663" zpos="548.986" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="YJ6Q6Rmo5UC8tJMz0AcPpA=="/>
+		<POI MapID="34" xpos="-241.911" ypos="5.82841" zpos="21.3828" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="uPwl0Nf2wkmhhIXipei5NA=="/>
+		<POI MapID="34" xpos="-193.177" ypos="9.97275" zpos="31.1848" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="PC3MVAWPvUmjcyTm2MdEyQ=="/>
+		<POI MapID="34" xpos="-423.108" ypos="12.4257" zpos="-62.3795" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_carrot" GUID="dfbP1xTqBU26P+TjfpI6BQ=="/>
+		<POI MapID="34" xpos="-410.673" ypos="2.70089" zpos="-103.475" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="gfYkMNvJ50+gX1/jKzKmAg=="/>
+		<POI MapID="34" xpos="-357.256" ypos="8.51144" zpos="-306.652" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="DuaF4kBGEUupTcq8bzl86A=="/>
+		<POI MapID="34" xpos="-414.204" ypos="3.66046" zpos="-283.289" type="cmm.cmm_marks.cmm_forage.cmm_fruit.cmm_blueberry" GUID="Ff9+ybNg10O8xAZunMFxdw=="/>
+		<POI MapID="34" xpos="-454.768" ypos="6.07483" zpos="-286.75" type="cmm.cmm_marks.cmm_ore.cmm_normore.cmm_copper" GUID="V8Jn7XQ2eEqgdA2eT8rMCg=="/>
+		<POI MapID="34" xpos="-345.399" ypos="26.1242" zpos="-388.919" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="gKGUpx6q3kKCUxAYt/SNFQ=="/>
+		<POI MapID="34" xpos="-384.104" ypos="25.7011" zpos="-398.403" type="cmm.cmm_marks.cmm_forage.cmm_vegetable.cmm_onion" GUID="F6tr0hQh3Ee7jwvxozHHmw=="/>
+		<POI MapID="34" xpos="-320.192" ypos="6.11779" zpos="-461.647" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="VgWYIm17jkekri13+dYkNQ=="/>
+		<POI MapID="34" xpos="-323.163" ypos="25.3806" zpos="-668.057" type="cmm.cmm_marks.cmm_wood.cmm_greenwood" GUID="Y1LLY38VQUqsJi5vNxjWkg=="/>
 	</POIs>
 </OverlayData>
