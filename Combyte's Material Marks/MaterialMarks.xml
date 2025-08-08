@@ -64,12 +64,12 @@
 					<MarkerCategory name="cmm_garlic" displayName="Garlic" iconFile="Data\Markers\Nodes\Forage\Herb\Garlic.png"/>
 					<MarkerCategory name="cmm_lemongrass" displayName="Lemongrass" iconFile="Data\Markers\Nodes\Forage\Herb\Lemongrass.png"/>
 					<MarkerCategory name="cmm_mint" displayName="Mint" iconFile="Data\Markers\Nodes\Forage\Herb\Mint.png"/>
-					<MarkerCategory name="cmm_oregano" displayName="Oregano" iconFile="Data\Markers\Nodes\Forage\Herb\Oregano.png"/>
+					<MarkerCategory name="cmm_oreganoleaf" displayName="Oregano Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\Oregano.png"/>
 					<MarkerCategory name="cmm_parsleyleaf" displayName="Parsley Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\ParsleyLeaf.png"/>
 					<MarkerCategory name="cmm_parsnip" displayName="Parsnip" iconFile="Data\Markers\Nodes\Forage\Herb\Parsnip.png"/>
 					<MarkerCategory name="cmm_rosemary" displayName="Rosemary" iconFile="Data\Markers\Nodes\Forage\Herb\Rosemary.png"/>
 					<MarkerCategory name="cmm_saffron" displayName="Saffron" iconFile="Data\Markers\Nodes\Forage\Herb\Saffron.png"/>
-					<MarkerCategory name="cmm_sage" displayName="Sage" iconFile="Data\Markers\Nodes\Forage\Herb\Sage.png"/>
+					<MarkerCategory name="cmm_sageleaf" displayName="Sage Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\Sage.png"/>
 					<MarkerCategory name="cmm_sesameseed" displayName="Sesame Seed" iconFile="Data\Markers\Nodes\Forage\Herb\SesameSeed.png"/>
 					<MarkerCategory name="cmm_terragon" displayName="Terragon" iconFile="Data\Markers\Nodes\Forage\Herb\Terragon.png"/>
 					<MarkerCategory name="cmm_thymeleaf" displayName="Thyme Leaf" iconFile="Data\Markers\Nodes\Forage\Herb\Thyme.png"/>
