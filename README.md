@@ -12,14 +12,14 @@ Currently available so far:
 
 **Ascalon:**
 - Blazeridge Steppes (64 Ore, 42 Wood)
-- Diessa Plateau (48 Ore, 25 Wood)
+- Diessa Plateau (84 Ore, 46 Wood, 88 Forage)
 - Fields of Ruin (44 Ore, 27 Wood)
 - Fireheart Rise (43 Ore, 34 Wood)
 - Iron Marches (48 Ore, 35 Wood)
 - Plains of Ashford (110 Ore, 94 Wood, 84 Forage)
 
 **Maguuma Jungle:**
-- Brisban Wildlands (48 Ore, 26 Wood)
+- Brisban Wildlands (83 Ore, 47 Wood, 68 Forage)
 - Caledon Forest (95 Ore, 63 Wood, 28 Forage)
 - Metrica Province (97 Ore, 60 Wood, 37 Forage)
 - Mount Malestrom (45 Ore, 34 Wood)
@@ -33,7 +33,7 @@ Currently available so far:
 - Dreadgehaunt Cliffs (44 Ore, 35 Wood)
 - Frostgorge Sound (40 Ore, 28 Wood)
 - Lornar's Pass (26 Ore, 46 Wood)
-- Snowden Drifts (41 Ore, 22 Wood)
+- Snowden Drifts (78 Ore, 41 Wood, 70 Forage)
 - Timberline Falls (47 Ore, 35 Wood)
 - Wayfarer Foothills (72 Ore, 68 Wood, 50 Forage)
 
@@ -41,7 +41,7 @@ Currently available so far:
 - Bloodtide Coast (43 Ore, 33 Wood)
 - Gendarran Fields (44 Ore, 25 Wood)
 - Harathi Hinterlands (44 Ore, 27 Wood)
-- Kessex Hills (87 Ore, 25 Wood)
+- Kessex Hills (120 Ore, 45 Wood, 88 Forage)
 - Queensdale (95 Ore, 75 Wood, 54 Forage)
 
 **Ruins of Orr:**
